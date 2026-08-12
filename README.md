@@ -141,7 +141,7 @@ I am an entry-level **Embedded Firmware and IoT Engineer** focused on developing
 ### Professional Links
 
 * **GitHub:** github.com/areesh-lgk
-* **LinkedIn:** [linkedin.com/in/areesh-a-2a038a3ab](https://www.linkedin.com/in/areesh2628/)
+* **LinkedIn:** [https://www.linkedin.com/in/areesh2628/)
 * **Email:** [areeshkathiravan@gmail.com](mailto:areeshkathiravan@gmail.com)
 
 ---
